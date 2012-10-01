@@ -1,6 +1,5 @@
 /*
- * MultiselectController synchronizes the values of the hidden elements to the
- * SelectOption lists.
+ dgfdgfdgfdg
  */
 public with sharing class MultiselectController {
     // SelectOption lists for public consumption
